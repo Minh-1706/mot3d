@@ -1,1 +1,14 @@
-
+{
+  "name": "Mot3d Repo",
+  "description": "Plugin phát phim từ mot3d.com",
+  "plugins": [
+    {
+      "name": "Mot3d",
+      "description": "Plugin xem phim từ mot3d.com",
+      "packageName": "com.mot3d",
+      "version": "1.0.0",
+      "repo": "https://github.com/Minh-1706/mot3d",
+      "language": "vi"
+    }
+  ]
+}
