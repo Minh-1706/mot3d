@@ -5,9 +5,9 @@
     {
       "name": "Mot3d",
       "description": "Plugin xem phim từ mot3d.com",
-      "packageName": "com.mot3d",
+      "packageName": "mot3d",
       "version": "1.0.0",
-      "repo": "https://github.com/Minh-1706/mot3d",
+      "url": "https://github.com/Minh-1706/mot3d/releases/download/v1.0.0/mot3d.cs3",
       "language": "vi"
     }
   ]
